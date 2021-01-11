@@ -45,9 +45,29 @@ Some technologies I am familiar with
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studios-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
-### Extra stuff
-![](https://img.shields.io/badge/Funsies-Hack_the_Box-informational?style=flat&logo=hack-the-box&logoColor=white&color=2bbc8a)
+### Next on the Learning Block
 ![](https://img.shields.io/badge/Funsies-GCN-informational?style=flat&logo=nintendo-gamecube&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Funsies-GCN-informational?style=flat&logo=nintendo-gamecube&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
+
+
+### Extra stuff
+![](https://img.shields.io/badge/Funsies-Steam-informational?style=flat&logo=steam&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Funsies-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Funsies-GCN-informational?style=flat&logo=nintendo-gamecube&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Funsies-Hack_the_Box-informational?style=flat&logo=hack-the-box&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Funsies-AI_Dungeon-informational?style=flat&logo=ai-dungeon&logoColor=white&color=2bbc8a)
+
+### Current Rig
+![](https://img.shields.io/badge/Motherboard-Asus-informational?style=flat&logo=asus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Processor-Intel_8700k-informational?style=flat&logo=intel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GPU-NVidia_GTX_1080ti-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/RAM,_AIO,_PS-Corsair-informational?style=flat&logo=corsair&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Storage-WD-Black-informational?style=flat&logo=wd&logoColor=white&color=2bbc8a)
+
 
 ### Some non coding stuff about me: 
 
@@ -62,5 +82,5 @@ My favorite game is Super Smash Bros Melee. I have played the game competitively
 
 ## If you made it this far...
 
-Wow thanks for reading all that stuff about me, I'd love to hear back from you as well! Feel free to message me on <span> [<img src='https://simpleicons.org/icons/linkedin.svg' height='15' width='15' />](https://www.linkedin.com/in/seth-barrie-0502701bb/) [<img src='https://simpleicons.org/icons/angellist.svg' height='15' width='15' />](https://angel.co/u/seth-barrie) [<img src='https://simpleicons.org/icons/stackoverflow.svg' height='15' width='15' />](https://stackoverflow.com/users/13646198/sethb) [<img src='https://simpleicons.org/icons/leetcode.svg' height='15' width='15' />](https://leetcode.com/sethbarrie/) </span>
+Wow thanks for reading all that stuff about me, I'd love to hear back from you as well! Feel free to message me on <span> [<img src='https://simpleicons.org/icons/linkedin.svg' height='15' width='15' />](https://www.linkedin.com/in/seth-barrie-0502701bb/) [<img src='https://simpleicons.org/icons/angellist.svg' height='15' width='15' />](https://angel.co/u/seth-barrie) [<img src='https://simpleicons.org/icons/stackoverflow.svg' height='15' width='15' />](https://stackoverflow.com/users/13646198/sethb) [<img src='https://simpleicons.org/icons/leetcode.svg' height='15' width='15' />](https://leetcode.com/sethbarrie/) [<img src='https://simpleicons.org/icons/gmail.svg' height='15' width='15' />](mailto:sethbarrie@gmail.com)</span>
 
