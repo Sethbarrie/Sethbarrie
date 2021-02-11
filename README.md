@@ -29,6 +29,7 @@ Some technologies I am familiar with
 ![](https://img.shields.io/badge/Framework-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Discord.js-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a)
 
 ### Database and Storage solutions
 ![](https://img.shields.io/badge/DB-mongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
