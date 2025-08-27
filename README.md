@@ -1,5 +1,8 @@
 ## 2025 update.
 
+![Header](https://raw.githubusercontent.com/Sethbarrie/Sethbarrie/main/assets/image002.jpg)
+
+
 I'm still all about learning and building, but my focus has shifted toward more complex systems. I've been working on this MMO project that's taught me way more about networking and architecture than I expected. It's interesting how one project can force learning in so many different areas.
 
 I love working on existing codebases and iterating. There's something really satisfying about taking something that already works and making it better piece by piece. I can handle greenfield work, but I really excel at improving legacy systems.
@@ -14,6 +17,18 @@ Some stuff I wanna build at some point:
 
 I really enjoyed working with a small, collaborative team where everyone could learn from each other and elevate the work. There are interesting problems everywhere - healthcare, logistics, legal tech - and I'd love to find the right team to tackle them with.
 
+Techstack I've used professionally is Ruby on Rails or Elixir/Phoenix for backend. React for the front end. DB is always postgreSQL <3 I've used tons of services, frameworks, and tecnologies before, but if you ask what I'm comfortable with it's these right here.
+
+New technologies I'd be interested to learn would be Go/Rust, maybe C#, but really anything can be interesting with it's own set of challenges!
+
+Full list is here
+
+- Programming Languages: JavaScript, TypeScript, Ruby, Python, Elixir, HTML, CSS, Bash, Shell Scripting
+- Frameworks & Libraries: Ruby on Rails, React, React Native, Phoenix, Redux, Flask, Tailwind/Sass
+- Databases: PostgreSQL
+- Tools & Platforms: AWS, Docker, Git, Expo, Figma, Twilio, Rollbar, NewRelic, Sentry, LaunchDarkly, Redis, Jira
+- Artificial Intelligence: Cursor, Github Copilot, ChatGPT API, Google Dialogflow CX
+- Methodologies: Scrum, Agile
 
 Feel free to see the previous version of this page!
 
@@ -26,8 +41,7 @@ Feel free to see the previous version of this page!
 ### A little about me:
 
 I love coding. Even the frustrating parts are still enjoyable. I love learning, my main goal with coding is to never stop learning.
- 
- 
+
 I also love open source, the idea of community built products that anyone can use is such a beautiful idea to me. 
 
 Some technologies I am familiar with
