@@ -1,3 +1,24 @@
+## 2025 update.
+
+I'm still all about learning and building, but my focus has shifted toward more complex systems. I've been working on this MMO project that's taught me way more about networking and architecture than I expected. It's interesting how one project can force learning in so many different areas.
+
+I love working on existing codebases and iterating. There's something really satisfying about taking something that already works and making it better piece by piece. I can handle greenfield work, but I really excel at improving legacy systems.
+
+I've been trying to stay more consistent with things lately. I go to the gym most days, do a chess puzzle, and take care of the animals (somehow ended up with even more chickens, did you know chickens make more chickens?). I started gardening which has been surprisingly rewarding, and picked up cycling again. I'm still terrible at golf and keeping bonsai trees alive, but I'm having fun with both.
+
+Some stuff I wanna build at some point:
+ 1. I've got this idea for a chess engine that prioritizes tactics over king safety, but parameters and math will be very tricky.
+ 2. I've also wanted to work through [Google's Rust guide](https://google.github.io/comprehensive-rust/)
+ 3. I also wanted to tackle some even [lower level stuff](https://www.nand2tetris.org/)
+ 4. I wanna keep build out the MMO exactly how I envisioned. Once I do I have about 4 other games in completely different areas I'll start!
+
+I really enjoyed working with a small, collaborative team where everyone could learn from each other and elevate the work. There are interesting problems everywhere - healthcare, logistics, legal tech - and I'd love to find the right team to tackle them with.
+
+
+Feel free to see the previous version of this page!
+
+<hr>
+
 ## You found me! Hi I'm Seth.
 
 ![Header](https://raw.githubusercontent.com/Sethbarrie/Sethbarrie/main/assets/image001.jpg)
